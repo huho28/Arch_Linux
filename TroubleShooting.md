@@ -97,7 +97,7 @@ If the above steps did not work:
 | `sudo pacman -S virtualbox-guest-utils` | Install guest utilities     |
 | `sudo systemctl enable vboxservice`     | Enable guest service        |
 | `systemctl status vboxservice`          | Check service status        |
-| `lsmod | grep vbox`                     | List loaded vbox modules    |
+| `lsmod \| grep vbox`                     | List loaded vbox modules    |
 | `VBoxClient-all`                        | Run guest client in XFCE    |
 
 ---
