@@ -100,6 +100,3 @@ If the above steps did not work:
 | `lsmod \| grep vbox`                     | List loaded vbox modules    |
 | `VBoxClient-all`                        | Run guest client in XFCE    |
 
----
-
-Feel free to adjust these steps for your particular setup!
